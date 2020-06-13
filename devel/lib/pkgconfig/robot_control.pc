@@ -1,0 +1,8 @@
+prefix=C:/Automaid/devel
+
+Name: robot_control
+Description: Description of robot_control
+Version: 0.0.0
+Cflags: -IC:/Automaid/devel/include
+Libs: -L${prefix}/lib 
+Requires: rospy message_runtime

@@ -1,0 +1,24 @@
+
+<?xml version="1.0"?>
+<robot name="am">
+<link name="chassis">
+      <visual>
+        <origin rpy="0.0 0 0" xyz="0.09137 0.00495 0"/>
+        <geometry>
+          <mesh filename="package://am_description/meshes/am_mesh.dae"/>
+        </geometry>
+      </visual>
+</link>
+
+<?xml version="1.0"?>
+<robot name="am">
+<link name="chassis">
+      <visual>
+        <origin rpy="0.0 0 0" xyz="0.09137 0.00495 0"/>
+        <geometry>
+          <mesh filename="package://am_description/meshes/am_mesh.dae"/>
+        </geometry>
+      </visual>
+</link>
+
+</robot>

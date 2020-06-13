@@ -1,0 +1,2 @@
+am_description;am_gazebo;robot_control;test_pkg
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=C:\Automaid\devel -DCMAKE_INSTALL_PREFIX=C:\Automaid\install -G NMake Makefiles
